@@ -44,7 +44,7 @@ export default function FounderProfile() {
             <div className="relative mt-12 md:mt-0">
               <div className="w-24 h-24 md:w-48 md:h-48 rounded-full overflow-hidden border-4 border-white shadow-xl">
                 <Image
-                  src="/mj.svg?height=400&width=400"
+                  src="/img/mjal.png"
                   alt="Md Jafor Ahmad"
                   width={200}
                   height={200}
